@@ -1,0 +1,5 @@
+1. 语音降噪
+2. 语音切分
+4. 语音翻译 设置语言
+5. 语音配置文件生成
+spleeter separate -o ./input/separate D:\AIGC\Bert-VITS2\whisper_demo\input\raw\a2.wav
